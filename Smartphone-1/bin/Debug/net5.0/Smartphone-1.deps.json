@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Smartphone-1/1.0.0": {
+        "dependencies": {
+          "ClassLibrary.Helpers": "1.0.0.0"
+        },
+        "runtime": {
+          "Smartphone-1.dll": {}
+        }
+      },
+      "ClassLibrary.Helpers/1.0.0.0": {
+        "runtime": {
+          "ClassLibrary.Helpers.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Smartphone-1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibrary.Helpers/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+D:\C# Tasks\20220211-Task5\ClassLibrary.Helpers\bin\Debug\net5.0\ClassLibrary.Helpers.deps.json
+D:\C# Tasks\20220211-Task5\ClassLibrary.Helpers\bin\Debug\net5.0\ClassLibrary.Helpers.dll
+D:\C# Tasks\20220211-Task5\ClassLibrary.Helpers\bin\Debug\net5.0\ref\ClassLibrary.Helpers.dll
+D:\C# Tasks\20220211-Task5\ClassLibrary.Helpers\bin\Debug\net5.0\ClassLibrary.Helpers.pdb
+D:\C# Tasks\20220211-Task5\ClassLibrary.Helpers\obj\Debug\net5.0\ClassLibrary.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Tasks\20220211-Task5\ClassLibrary.Helpers\obj\Debug\net5.0\ClassLibrary.Helpers.AssemblyInfoInputs.cache
+D:\C# Tasks\20220211-Task5\ClassLibrary.Helpers\obj\Debug\net5.0\ClassLibrary.Helpers.AssemblyInfo.cs
+D:\C# Tasks\20220211-Task5\ClassLibrary.Helpers\obj\Debug\net5.0\ClassLibrary.Helpers.csproj.CoreCompileInputs.cache
+D:\C# Tasks\20220211-Task5\ClassLibrary.Helpers\obj\Debug\net5.0\ClassLibrary.Helpers.dll
+D:\C# Tasks\20220211-Task5\ClassLibrary.Helpers\obj\Debug\net5.0\ref\ClassLibrary.Helpers.dll
+D:\C# Tasks\20220211-Task5\ClassLibrary.Helpers\obj\Debug\net5.0\ClassLibrary.Helpers.pdb
